@@ -51,4 +51,5 @@ body {
 
 @media screen and (max-width: 600px) {
   .title-main {
-    font-size: 3.5rem
+    font-size: 3.5rem;
+}
